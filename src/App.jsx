@@ -24,13 +24,13 @@ const App = () => {
                   <FaMapMarkerAlt className="mr-2" /> Calle Fresnos #130 Fracc. Jacarandas, Mazatlán 82157, México
                 </p>
                 <p className="flex items-center">
-                  <FaPhone className="mr-2" /> +52 618 1216 1528
+                  <FaPhone className="mr-2" /> +52 618 116 1528
                 </p>
                 <p className="flex items-center">
-                  <FaEnvelope className="mr-2" /> giosamuel8715@gmail.com
+                  <FaEnvelope className="mr-2" /> gjosemanuel375@gmail.com
                 </p>
                 <p className="flex items-center">
-                  <FaGlobe className="mr-2" /> <a href="https://drive.google.com/drive/folders/1OzAD8w4IjO33lYE1Rsv1e4PF4X5QLt9U" className="underline text-blue-400">Drive Link</a>
+                  <FaGlobe className="mr-2" /> <a href="https://drive.google.com/drive/folders/1OxADBniWQJltltD3YLERs1vqP4FOXSQL?usp=sharing" className="underline text-blue-400">Drive Link</a>
                 </p>
               </div>
             </div>
